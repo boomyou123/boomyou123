@@ -1,5 +1,5 @@
 - 👋 Hi, I’m bong kai sheng
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning JAVA SCRIPT 
 - 📫 How to reach me :011-55679917
 
 <!---
